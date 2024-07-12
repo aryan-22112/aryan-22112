@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aryan Singla</h1>
-<h3 align="center">I am interested in machine learning and web development</h3>
+# About Me:
+
+Hi!,I am interested in machine learning and web development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
