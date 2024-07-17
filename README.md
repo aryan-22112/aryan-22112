@@ -1,6 +1,7 @@
 # About Me:
 
-Hi!,I am interested in machine learning and web development
+Hi!
+I am interested in machine learning and web development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
