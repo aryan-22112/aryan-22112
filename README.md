@@ -1,6 +1,6 @@
 # About Me:
 
-<h2> Hi! I'm interested in machne learning and web development </h2>
+<h2> Hi 👋! Myself Aryan Singla. I’m an undergraduate researcher and developer passionate about building real-world AI solutions and robust software systems. . I enjoy tackling challenging data preprocessing tasks, experimenting with deep learning models, and bringing new ideas to life with machine learning and Artificial Intelligence. Always eager to collaborate and contribute to innovative, impactful projects!</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
